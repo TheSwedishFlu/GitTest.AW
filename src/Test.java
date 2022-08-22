@@ -1,7 +1,7 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("test");
-        System.out.println("now it is not not");
+
+        System.out.println("First Push");
 
     }
 }
